@@ -1,0 +1,52 @@
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\MyWebApp.staticwebassets.runtime.json
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\MyWebApp.exe
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\MyWebApp.deps.json
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\MyWebApp.runtimeconfig.json
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\MyWebApp.dll
+C:\Users\NITRO 5\MyWebApp\bin\Debug\net6.0\MyWebApp.pdb
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfo.cs
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cache
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cs
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\scopedcss\bundle\MyWebApp.styles.css
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.dll
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\refint\MyWebApp.dll
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.pdb
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\MyWebApp.genruntimeconfig.cache
+C:\Users\NITRO 5\MyWebApp\obj\Debug\net6.0\ref\MyWebApp.dll
+E:\C#\MyWebApp\bin\Debug\net6.0\appsettings.Development.json
+E:\C#\MyWebApp\bin\Debug\net6.0\appsettings.json
+E:\C#\MyWebApp\bin\Debug\net6.0\MyWebApp.staticwebassets.runtime.json
+E:\C#\MyWebApp\bin\Debug\net6.0\MyWebApp.exe
+E:\C#\MyWebApp\bin\Debug\net6.0\MyWebApp.deps.json
+E:\C#\MyWebApp\bin\Debug\net6.0\MyWebApp.runtimeconfig.json
+E:\C#\MyWebApp\bin\Debug\net6.0\MyWebApp.dll
+E:\C#\MyWebApp\bin\Debug\net6.0\MyWebApp.pdb
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.AssemblyReference.cache
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfoInputs.cache
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.AssemblyInfo.cs
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.csproj.CoreCompileInputs.cache
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cache
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.RazorAssemblyInfo.cs
+E:\C#\MyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\C#\MyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\C#\MyWebApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\C#\MyWebApp\obj\Debug\net6.0\scopedcss\bundle\MyWebApp.styles.css
+E:\C#\MyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MyWebApp.bundle.scp.css
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.dll
+E:\C#\MyWebApp\obj\Debug\net6.0\refint\MyWebApp.dll
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.pdb
+E:\C#\MyWebApp\obj\Debug\net6.0\MyWebApp.genruntimeconfig.cache
+E:\C#\MyWebApp\obj\Debug\net6.0\ref\MyWebApp.dll
